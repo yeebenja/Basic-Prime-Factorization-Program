@@ -1,5 +1,6 @@
 # Basic Prime Factorization Program
 
-![ezgif-3-a5d6423da5](https://user-images.githubusercontent.com/95982168/209887115-d0579237-90ca-47fa-924d-9174f7267c0e.gif)
+![ezgif-3-56881ec03a](https://user-images.githubusercontent.com/95982168/209887210-97d9f146-7c67-4394-8244-3e3935e3f1b8.gif)
+
 
 Add description here explaining the program

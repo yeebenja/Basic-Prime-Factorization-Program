@@ -1,6 +1,6 @@
 # Basic Prime Factorization Program
 
-![ezgif-3-56881ec03a](https://user-images.githubusercontent.com/95982168/209887210-97d9f146-7c67-4394-8244-3e3935e3f1b8.gif)
+![prime_fact_demo](https://user-images.githubusercontent.com/95982168/210472337-5b6cbe24-ddac-4eea-8e77-0dc0be7ecab4.gif)
 
 Program outputs a given integer's prime factorization. If the integer is prime, program will just output the integer given.
 

@@ -2,6 +2,7 @@
 // By: Benjamin Yee
 // Email: yeebenja@umich.edu
 // LinkedIn: https://www.linkedin.com/in/bay02
+// GitHub: https://github.com/yeebenja
 
 /*
 Purpose of this program is to find the
@@ -10,7 +11,7 @@ prime factorization of a positive integer.
 #include <iostream>
 #include <vector>
 
-class integer_less_than_0{/*...*/};
+class integer_less_than_0 {/*...*/ };
 
 // This program will return an integer a user inputs
 // only if that integer is positive.
@@ -28,11 +29,11 @@ size_t check_if_integer_is_positive() {
     try {
         std::cout << "Enter a positive integer: ";
         std::cin >> integer; // Note: Number inputted through the
-                             // terminal must be positive!
+        // terminal must be positive!
         integer_less_than_0 obj1;
         if (integer <= 0) throw obj1;
     }
-    catch (const integer_less_than_0 &obj_temp) {
+    catch (const integer_less_than_0& obj_temp) {
         std::cout << "Error, integer less than 0" << std::endl;
     }
     return integer;
